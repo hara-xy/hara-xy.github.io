@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f1abb46.css",
+    "main.js": "/static/js/main.fac5fb7a.js",
+    "static/media/haraxy latest hero.png": "/static/media/haraxy latest hero.116ae451d0c1a16a941e.png",
+    "static/media/haraxy latest.png": "/static/media/haraxy latest.7a403b66c6839bf67c7e.png",
+    "index.html": "/index.html",
+    "main.4f1abb46.css.map": "/static/css/main.4f1abb46.css.map",
+    "main.fac5fb7a.js.map": "/static/js/main.fac5fb7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f1abb46.css",
+    "static/js/main.fac5fb7a.js"
+  ]
+}
